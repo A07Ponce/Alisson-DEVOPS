@@ -2,7 +2,7 @@
 
 on:
   push:
-    branches: [ main ]
+    branches: [ alisson-johanna-ponce-suntaxi ]
 
 jobs:
   deploy:
