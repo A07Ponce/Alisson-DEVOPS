@@ -1,0 +1,11 @@
+app = "mi-flask-app-alisson-johanna-ponce-suntaxi"
+
+[build]
+  # si usas Dockerfile: uncomment
+  # dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8080"
+
+[experimental]
+  allowed_public_ports = []
